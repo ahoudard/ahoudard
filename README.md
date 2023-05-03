@@ -2,7 +2,7 @@
 
 I'm a researcher with interests on image processing, 3D rendering and computer vision. I worked on image restoration, texture synthesis, super-resolution, and neural rendering. I developped methods using statistics [HDMI](https://github.com/ahoudard/HDMI), optimal transport [wgenpatex](https://github.com/ahoudard/wgenpatex) and deep learning [GOTEX](https://github.com/ahoudard/GOTEX).
 
-I'm currently working as Research Engineer at Ubisoft La Forge Bordeaux.
+I'm currently working as Research Scientist at Ubisoft La Forge Bordeaux.
 
 
 
